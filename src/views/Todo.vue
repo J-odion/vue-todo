@@ -61,22 +61,7 @@ export default {
     return {
       newTaskTitle: "",
       tasks: [
-        {
-          id: 1,
-          title: 'Wake up',
-          done: false
-        },
-        {
-
-          id: 2,
-          title: 'Communicate with God',
-          done: false
-        },
-        {
-          id: 3,
-          title: 'Bath and brush',
-          done: false
-        }
+        
       ]
     }
   },
